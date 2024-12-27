@@ -251,3 +251,12 @@ section{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+
+.badge-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 20rem;
+}
